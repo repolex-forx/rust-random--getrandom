@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/rust-random/getrandom/commit/6a04900732207b537b2d3ea7bee61ab0a6c6ca9f",
       "git:hexsha": "6a04900732207b537b2d3ea7bee61ab0a6c6ca9f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/rust-random/getrandom/commit/c9440a20bd409c5d5a7957279725457cf2f274b1",
