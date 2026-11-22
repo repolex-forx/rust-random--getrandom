@@ -159,6 +159,41 @@
       ],
       "ast": [
         "aggregate/ast/4d826731b20a09e69cca91c66aea57ab3cf00072/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/4d826731b20a09e69cca91c66aea57ab3cf00072.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "cfg-if",
+          "ecosystem": "CARGO",
+          "version": "1",
+          "githubOrg": "rust-lang",
+          "githubRepo": "cfg-if",
+          "githubUrl": "https://github.com/rust-lang/cfg-if",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rand_core",
+          "ecosystem": "CARGO",
+          "version": "0.10.0",
+          "githubOrg": "rust-random",
+          "githubRepo": "rand_core",
+          "githubCommit": "0ce22c945d12cbad6b10eccb872961f4da061df2",
+          "githubTag": "v0.10.0",
+          "githubUrl": "https://github.com/rust-random/rand_core",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "libc",
+          "ecosystem": "CARGO",
+          "version": "0.2.182",
+          "githubOrg": "rust-lang",
+          "githubRepo": "libc",
+          "githubCommit": "e879ee90b6cd8f79b352d4d4d1f8ca05f94f2f53",
+          "githubTag": "0.2.182",
+          "githubUrl": "https://github.com/rust-lang/libc",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.182/src/unix/mod.rs"
+        }
       ]
     }
   ],
