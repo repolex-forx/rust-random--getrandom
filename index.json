@@ -3,6 +3,11 @@
   "repo": "getrandom",
   "versions": [
     {
+      "commit": "4d826731b20a09e69cca91c66aea57ab3cf00072",
+      "tag": "v0.4.2",
+      "parsed_at": "2026-11-22T01:37:39.709332+00:00"
+    },
+    {
       "commit": "6a04900732207b537b2d3ea7bee61ab0a6c6ca9f",
       "tag": "",
       "parsed_at": "2026-11-09T19:01:29.977359+00:00"
